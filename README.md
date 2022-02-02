@@ -7,7 +7,7 @@ It was made an archive in .py, in which it must be put the data of both team man
 
 ![image](https://user-images.githubusercontent.com/88800549/152246565-60731829-271a-46d3-88bb-f80b630f858b.png)
 <br>
-<b>Dados colocados de forma manual.
+<b>Data placed manually 
 
 <hr>
 
